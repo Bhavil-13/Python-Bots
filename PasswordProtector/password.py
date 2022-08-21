@@ -1,2 +1,7 @@
-iun = 'not_bhaaavil'
-ipw = 'password'
+class InstaP:
+    userName = 'username'
+    password = 'password'
+
+class LMS:
+    userName = 'username'
+    password = 'password'
