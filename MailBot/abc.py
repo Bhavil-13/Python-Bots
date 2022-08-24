@@ -1,0 +1,2 @@
+class msg:
+    message = 'hellohello'
